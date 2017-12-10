@@ -11,3 +11,7 @@
 ### 해외
 
 - <https://cryptowat.ch> - 거래소 그래프 한눈에 제공 - 유료모델 있음
+
+## :zap: API
+
+- <http://fixer.io> - 환율
