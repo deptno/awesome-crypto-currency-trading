@@ -11,10 +11,12 @@
 - <https://bitgall.me> - 빗갤봇 - 실시간 거래소별 가격 조회
 - <http://luka7.net> - 암호화폐 시세 정보
 - <http://coin.kor.im> - 환율, 해외대비 프리미엄
+- <http://foworld.co.kr/fbtc> 선물, 옵션
 
 ### 해외
 
 - <https://cryptowat.ch> - 거래소 그래프 한눈에 제공 - 유료모델 있음
+- <https://www.marketwatch.com/investing/future/xbtf8/charts> 선물, 옵션
 
 ## :dollar: 거래소
 
@@ -27,6 +29,10 @@
 ### 해외
 
  - 
+
+## :open_file_folder: 블록 정보
+
+ - https://blockchair.com
 
 ## :zap: API
 
