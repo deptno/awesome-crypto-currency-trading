@@ -32,7 +32,8 @@
 
 ## :open_file_folder: 블록 정보
 
- - https://blockchair.com
+ - <https://blockchair.com>
+ - <https://blockexplorer.com>
 
 ## :zap: API
 
