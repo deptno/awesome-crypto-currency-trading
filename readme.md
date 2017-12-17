@@ -16,7 +16,8 @@
 ### 해외
 
 - <https://cryptowat.ch> - 거래소 그래프 한눈에 제공 - 유료모델 있음
-- <https://www.marketwatch.com/investing/future/xbtf8/charts> 선물, 옵션
+- <https://www.marketwatch.com/investing/future/xbtf8/charts> - 선물, 옵션
+- <https://coinmarketcap.com> - 코인 시가 총액
 
 ## :dollar: 거래소
 
