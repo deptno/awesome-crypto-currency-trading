@@ -35,6 +35,10 @@
  - <https://blockchair.com>
  - <https://blockexplorer.com>
 
+## :computer: 앱
+
+ - <https://github.com/bichenkk/coinmon> - CLI 티커
+ 
 ## :zap: API
 
 - <http://fixer.io> - 환율
