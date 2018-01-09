@@ -36,6 +36,7 @@
  - <https://binance.com>
  - <https://www.huobi.pro>
  - <https://cobinhood.com>
+ - <https://www.kucoin.com>
 
 ## :open_file_folder: 블록 정보
 
