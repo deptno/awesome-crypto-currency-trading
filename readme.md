@@ -23,13 +23,19 @@
 
 ### 국내
 
- - <https://bithumb.com> - 빗썸
- - <https://coinone.com> - 코인원
- - <https://upbit.com> - 업비트, hts 형식으 볼 수 있음, 많은 코인 지원
+ - <https://bithumb.com>
+ - <https://coinone.com>
+ - <https://upbit.com>
+ - <http://coinrail.co.kr>
+ - <https://gopax.co.kr>
  
 ### 해외
 
- - 
+ - <https://bitfinex.com>
+ - <https://bittrex.com>
+ - <https://binance.com>
+ - <https://www.huobi.pro>
+ - <https://cobinhood.com>
 
 ## :open_file_folder: 블록 정보
 
