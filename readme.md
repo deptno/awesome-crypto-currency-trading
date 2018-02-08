@@ -12,7 +12,7 @@
 - <http://luka7.net> - 암호화폐 시세 정보
 - <http://coin.kor.im> - 환율, 해외대비 프리미엄
 - <http://foworld.co.kr/fbtc> 선물, 옵션
-- <https://margin.ml> - 선물 마지 정보
+- <https://margin.ml> - 선물 마진 정보
 
 ### 해외
 
@@ -30,6 +30,7 @@
  - <https://upbit.com>
  - <http://coinrail.co.kr>
  - <https://gopax.co.kr>
+ - <http://www.zeniex.com> - 2018.02.12 
  
 ### 해외
 
